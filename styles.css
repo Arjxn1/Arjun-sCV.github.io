@@ -36,6 +36,11 @@ h3 {
     font-style: italic;
 }
 
+h4 {
+    color: #8eb0ee;
+    text-align: center;
+}
+
 .profileImage {
     height: 200px;
     width: 200px; 
