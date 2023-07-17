@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
+
+
+* {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+body {
+    background-color: #C5DFF8;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+p {
+    font-size: 20px;
+}
+
+h1 {
+    color: #4A55A2;
+    text-align: center;
+    font-family: 'Caprasimo', cursive;
+}
+
+h2 {
+    color: #4A55A2;
+    text-align: center;
+    font-family: 'Caprasimo', cursive;
+}
+
+h3 {
+    color: #7895CB;
+    text-align: center;
+    font-style: italic;
+}
+
+.profileImage {
+    height: 200px;
+    width: 200px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+.contactButton {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: #7895CB;
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 50px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    width: 150px;
+}
+
+.contactButton:hover {
+    background: #4A55A2;
+}
+
+.linkButton {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: #7895CB;
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 50px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    width: 150px;
+    margin-top: 10px;
+}
+
+.linkButton:hover {
+    background: #4A55A2;
+}
+
+ul {
+    text-align: center;
+    padding: 0;
+}
+
+ul li {
+    list-style-type: none;
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
+
+hr {
+    border: dotted 6px;
+    border-bottom: none;
+    color: #A0BFE0;
+    width: 4%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+img {
+    border-radius: 50%;
+}
